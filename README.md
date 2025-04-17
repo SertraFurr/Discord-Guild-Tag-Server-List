@@ -1,5 +1,7 @@
 # Discord Guild Tag Server List
 
+# ⭐ Feel Free to Star!
+
 A curated list of active Discord servers where guild tags or server tags are used and supported.
 
 > ✅ They put it back — get your tags now!
