@@ -4,7 +4,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 
 > ✅ They put it back — get your tags now!
 
-## 📋 Server List (Name → Invite Link)
+## 📋 Server List (Name → Invite Link) (Instant Join)
 
 - **LGBT** — [https://discord.gg/lgbtqia](https://discord.gg/lgbtqia)  
 - **Role** — [https://discord.gg/reaction-roles-support-547906569489350657](https://discord.gg/reaction-roles-support-547906569489350657)  
