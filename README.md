@@ -10,7 +10,6 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **Role** — [https://discord.gg/reaction-roles-support-547906569489350657](https://discord.gg/reaction-roles-support-547906569489350657)  
 - **JB** — [https://discord.gg/jb](https://discord.gg/jb)  
 - **VIL (Valorant)** — [https://discord.gg/valorantil](https://discord.gg/valorantil)
-- **OWO** [https://discord.gg/hfwQAajt](https://discord.gg/hfwQAajt)
 - **HN** [https://discord.gg/discord-hq-1029315212005888060](https://discord.gg/discord-hq-1029315212005888060)
 
 ---
