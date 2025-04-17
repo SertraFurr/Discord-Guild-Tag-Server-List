@@ -2,6 +2,8 @@
 
 # ⭐ Feel Free to Star!
 
+nelly updated so go here : https://nelly.tools/tags
+
 A curated list of active Discord servers where guild tags or server tags are used and supported.
 
 > ✅ They put it back — get your tags now!
