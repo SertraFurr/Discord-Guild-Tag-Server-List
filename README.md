@@ -1,7 +1,7 @@
 # Discord Guild Tag Server List  
 ⭐ **Feel Free to Star!**
 
-nelly updated so go here: [https://nelly.tools/tags](https://nelly.tools/tags)
+nelly updated so go here: [https://nelly.tools/tags](https://nelly.tools/tags) (I got some exclusive, depend, if my repository was not updated they are infront of me, either way I am)
 
 A curated list of active Discord servers where guild tags or server tags are used and supported.
 
