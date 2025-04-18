@@ -28,6 +28,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **NIKO** — [https://discord.gg/dazais](https://discord.gg/dazais)
 - **10** — [https://discord.gg/tibo](https://discord.gg/tibo)
 - **YEVA** [https://discord.com/invite/ascEJHWhpx](https://discord.com/invite/ascEJHWhpx)
+- **moco** [https://discord.gg/moco](https://discord.gg/moco)
   
 ---
 
