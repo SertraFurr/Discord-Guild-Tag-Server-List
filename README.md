@@ -12,7 +12,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 ## 📋 Server List (Name → Invite Link) (Instant Join)
 
 - **LGBT** — [https://discord.gg/lgbtqia](https://discord.gg/lgbtqia)  
-- **Role** — [https://discord.gg/reaction-roles-support-547906569489350657](https://discord.gg/reaction-roles-support-547906569489350657)  
+- **DEV** — [https://discord.gg/reaction-roles-support-547906569489350657](https://discord.gg/reaction-roles-support-547906569489350657)  
 - **JB** — [https://discord.gg/jb](https://discord.gg/jb)  
 - **VIL (Valorant)** — [https://discord.gg/valorantil](https://discord.gg/valorantil)  
 - **HN** — [https://discord.gg/discord-hq-1029315212005888060](https://discord.gg/discord-hq-1029315212005888060)  
@@ -25,6 +25,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **SOUL** — [https://discord.gg/xFrgMAzmUc](https://discord.gg/xFrgMAzmUc)  
 - **GCA** — [https://discord.gg/Sq5Pjy3xrh](https://discord.gg/Sq5Pjy3xrh)
 - **VALC** — [https://discord.gg/mqGmVhntRt](https://discord.gg/mqGmVhntRt)
+- **NIKO** [https://discord.gg/dazais](https://discord.gg/dazais)
 ---
 
 ### 💬 Want to suggest a server?
