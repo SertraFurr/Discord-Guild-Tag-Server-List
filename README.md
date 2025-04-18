@@ -27,6 +27,8 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **VALC** — [https://discord.gg/mqGmVhntRt](https://discord.gg/mqGmVhntRt)
 - **NIKO** — [https://discord.gg/dazais](https://discord.gg/dazais)
 - **10** — [https://discord.gg/tibo](https://discord.gg/tibo)
+- **YEVA** [https://discord.com/invite/ascEJHWhpx](https://discord.com/invite/ascEJHWhpx)
+  
 ---
 
 ### 💬 Want to suggest a server?
