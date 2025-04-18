@@ -23,7 +23,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **MEOW** — [https://discord.gg/8wJKvYmEwc](https://discord.gg/8wJKvYmEwc)  
 - **LOL** — [https://discord.gg/TvTaJMFhQZ](https://discord.gg/TvTaJMFhQZ)  
 - **SOUL** — [https://discord.gg/xFrgMAzmUc](https://discord.gg/xFrgMAzmUc)  
-
+- **GCA** — [https://discord.gg/Sq5Pjy3xrh](https://discord.gg/Sq5Pjy3xrh)
 ---
 
 ### 💬 Want to suggest a server?
