@@ -21,7 +21,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **COLB** — [https://discord.gg/colbe](https://discord.gg/colbe)  
 - **COSI** — [https://discord.gg/la-cueva-de-cosi-844285068275875890](https://discord.gg/la-cueva-de-cosi-844285068275875890)  
 - **MEOW** — [https://discord.gg/8wJKvYmEwc](https://discord.gg/8wJKvYmEwc)  
-- **NSS** — [https://discord.gg/TvTaJMFhQZ](https://discord.gg/TvTaJMFhQZ)  
+- **LOL** — [https://discord.gg/TvTaJMFhQZ](https://discord.gg/TvTaJMFhQZ)  
 - **SOUL** — [https://discord.gg/xFrgMAzmUc](https://discord.gg/xFrgMAzmUc)  
 
 ---
