@@ -24,6 +24,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **LOL** — [https://discord.gg/TvTaJMFhQZ](https://discord.gg/TvTaJMFhQZ)  
 - **SOUL** — [https://discord.gg/xFrgMAzmUc](https://discord.gg/xFrgMAzmUc)  
 - **GCA** — [https://discord.gg/Sq5Pjy3xrh](https://discord.gg/Sq5Pjy3xrh)
+- **VALC** — [https://discord.gg/mqGmVhntRt](https://discord.gg/mqGmVhntRt)
 ---
 
 ### 💬 Want to suggest a server?
