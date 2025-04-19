@@ -30,6 +30,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **YEVA** — [https://discord.com/invite/ascEJHWhpx](https://discord.com/invite/ascEJHWhpx)
 - **moco** — [https://discord.gg/moco](https://discord.gg/moco)
 - **CYBR** — [https://discord.gg/cyberinfo](https://discord.gg/cyberinfo)
+- **Soul** — [https://discord.gg/soulobby](https://discord.gg/soulobby)
   
 ---
 
