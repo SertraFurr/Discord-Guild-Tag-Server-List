@@ -26,7 +26,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **GCA** — [https://discord.gg/Sq5Pjy3xrh](https://discord.gg/Sq5Pjy3xrh)
 - **VALC** — [https://discord.gg/mqGmVhntRt](https://discord.gg/mqGmVhntRt)
 - **NIKO** — [https://discord.gg/dazais](https://discord.gg/dazais)
-- **10** — [https://discord.gg/tibo](https://discord.gg/tibo)
+- **cute** — [https://discord.gg/tibo](https://discord.gg/tibo)
 - **YEVA** [https://discord.com/invite/ascEJHWhpx](https://discord.com/invite/ascEJHWhpx)
 - **moco** [https://discord.gg/moco](https://discord.gg/moco)
   
