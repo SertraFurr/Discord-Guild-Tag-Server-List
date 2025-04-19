@@ -15,7 +15,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **DEV** — [https://discord.gg/reaction-roles-support-547906569489350657](https://discord.gg/reaction-roles-support-547906569489350657)  
 - **iOS** — [https://discord.gg/jb](https://discord.gg/jb)  
 - **VIL (Valorant)** — [https://discord.gg/valorantil](https://discord.gg/valorantil)  
-- **HN** — [https://discord.gg/discord-hq-1029315212005888060](https://discord.gg/discord-hq-1029315212005888060)  
+- **HN** — [https://discord.gg/discord-hq-1029315212005888060](https://discord.gg/discord-hq-1029315212005888060)  (You need to fill a form)
 - **TIT** — [https://discord.gg/titsrp](https://discord.gg/titsrp)  
 - **DUAL** — [https://discord.gg/dualview](https://discord.gg/dualview)  
 - **COLB** — [https://discord.gg/colbe](https://discord.gg/colbe)  
