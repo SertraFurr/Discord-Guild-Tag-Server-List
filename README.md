@@ -13,7 +13,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 
 - **LGBT** — [https://discord.gg/lgbtqia](https://discord.gg/lgbtqia)  
 - **DEV** — [https://discord.gg/reaction-roles-support-547906569489350657](https://discord.gg/reaction-roles-support-547906569489350657)  
-- **JB** — [https://discord.gg/jb](https://discord.gg/jb)  
+- **iOS** — [https://discord.gg/jb](https://discord.gg/jb)  
 - **VIL (Valorant)** — [https://discord.gg/valorantil](https://discord.gg/valorantil)  
 - **HN** — [https://discord.gg/discord-hq-1029315212005888060](https://discord.gg/discord-hq-1029315212005888060)  
 - **TIT** — [https://discord.gg/titsrp](https://discord.gg/titsrp)  
