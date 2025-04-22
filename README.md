@@ -12,7 +12,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 ## 📋 Server List (Name → Invite Link) (Instant Join)
 
 - **LGBT** — [https://discord.gg/lgbtqia](https://discord.gg/lgbtqia)  
-- **DEV** — [https://discord.gg/reaction-roles-support-547906569489350657](https://discord.gg/reaction-roles-support-547906569489350657)  
+- **DEV** — [https://discord.gg/reactionroles](https://discord.gg/reactionroles)  
 - **iOS** — [https://discord.gg/jb](https://discord.gg/jb)  
 - **EZ** — [https://discord.gg/valorantil](https://discord.gg/valorantil)  
 - **MIKU** — [https://discord.gg/discord-hq-1029315212005888060](https://discord.gg/discord-hq-1029315212005888060)  (You need to fill a form)
