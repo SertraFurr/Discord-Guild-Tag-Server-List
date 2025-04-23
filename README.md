@@ -33,6 +33,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **Soul** — [https://discord.gg/soulobby](https://discord.gg/soulobby)
 - **STAR** — [https://discord.gg/solarballs](https://discord.gg/solarballs)
 - **EMH** — [https://discord.gg/emh](https://discord.gg/emh)
+- **CAT** — [https://discord.gg/sanic](https://discord.gg/sanic)
   
 ---
 
