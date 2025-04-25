@@ -23,7 +23,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **MEOW** — [https://discord.gg/8wJKvYmEwc](https://discord.gg/8wJKvYmEwc)  
 - **VIP** — [https://discord.gg/TvTaJMFhQZ](https://discord.gg/TvTaJMFhQZ)  
 - **SOUL** — [https://discord.gg/xFrgMAzmUc](https://discord.gg/xFrgMAzmUc)  
-- **GCA** — [https://discord.gg/Sq5Pjy3xrh](https://discord.gg/Sq5Pjy3xrh)
+- **PRO** — [https://discord.gg/Sq5Pjy3xrh](https://discord.gg/Sq5Pjy3xrh)
 - **VALC** — [https://discord.gg/mqGmVhntRt](https://discord.gg/mqGmVhntRt)
 - **NIKO** — [https://discord.gg/dazais](https://discord.gg/dazais)
 - **cute** — [https://discord.gg/tibo](https://discord.gg/tibo)
