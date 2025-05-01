@@ -19,8 +19,8 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **TIT** — [https://discord.gg/titsrp](https://discord.gg/titsrp)  
 - **DUAL** — [https://discord.gg/dualview](https://discord.gg/dualview)  
 - **COLB** — [https://discord.gg/colbe](https://discord.gg/colbe)  
-- **COSI** — [https://discord.gg/la-cueva-de-cosi-844285068275875890](https://discord.gg/la-cueva-de-cosi-844285068275875890)  
-- **MEOW** — [https://discord.gg/8wJKvYmEwc](https://discord.gg/8wJKvYmEwc)  
+- **BRUH** — [https://discord.gg/la-cueva-de-cosi-844285068275875890](https://discord.gg/la-cueva-de-cosi-844285068275875890)  
+- **MEOW** — [https://discord.gg/shaun](https://discord.gg/shaun)  
 - **VIP** — [https://discord.gg/TvTaJMFhQZ](https://discord.gg/TvTaJMFhQZ)  
 - **SOUL** — [https://discord.gg/xFrgMAzmUc](https://discord.gg/xFrgMAzmUc)  
 - **PRO** — [https://discord.gg/Sq5Pjy3xrh](https://discord.gg/Sq5Pjy3xrh)
@@ -35,8 +35,9 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **EMH** — [https://discord.gg/emh](https://discord.gg/emh)
 - **CAT** — [https://discord.gg/sanic](https://discord.gg/sanic)
 - **POLR** — [https://discord.gg/polarguild](https://discord.gg/polarguild)
-- **OWO** — [https://discord.gg/pupy](https://discord.gg/pupy)
-  
+- **WOOF** — [https://discord.gg/pupy](https://discord.gg/pupy)
+- **RAWR** — [https://discord.gg/kCh734XdZv](https://discord.gg/kCh734XdZv)
+
 ---
 
 ### 💬 Want to suggest a server?
