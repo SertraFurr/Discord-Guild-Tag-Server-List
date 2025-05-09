@@ -37,6 +37,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **POLR** — [https://discord.gg/polarguild](https://discord.gg/polarguild)
 - **WOOF** — [https://discord.gg/pupy](https://discord.gg/pupy)
 - **RAWR** — [https://discord.gg/kCh734XdZv](https://discord.gg/kCh734XdZv)
+- **RELO** - [https://discord.gg/4MkzHQDQdU](https://discord.gg/4MkzHQDQdU)
 
 ---
 
