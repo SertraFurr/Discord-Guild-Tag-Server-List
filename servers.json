@@ -3,7 +3,7 @@
   { "name": "DEV", "invite": "https://discord.gg/reactionroles" },
   { "name": "iOS", "invite": "https://discord.gg/jb" },
   { "name": "EZ", "invite": "https://discord.gg/valorantil" },
-  { "name": "MIKU", "invite": "https://discord.gg/discord-hq-1029315212005888060", "note": "You need to fill a form" },
+  { "name": "MIKU", "invite": "https://discord.gg/discord-hq-1029315212005888060"},
   { "name": "TIT", "invite": "https://discord.gg/titsrp" },
   { "name": "DUAL", "invite": "https://discord.gg/dualview" },
   { "name": "COLB", "invite": "https://discord.gg/colbe" },
@@ -26,4 +26,5 @@
   { "name": "WOOF", "invite": "https://discord.gg/pupy" }
   { "name": "RAWR", "invite": "https://discord.gg/kCh734XdZv" },
   { "name": "RELO", "invite": "https://discord.gg/4MkzHQDQdU" },
+  {"name":"Paws","invite": "https://discord.gg/jari" },
 ]
