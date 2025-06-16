@@ -10,7 +10,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 ---
 
 ## 📋 Server List (Name → Invite Link) (Instant Join)
-
+- **Paws** — [https://discord.gg/jari](https://discord.gg/jari)
 - **LGBT** — [https://discord.gg/lgbtqia](https://discord.gg/lgbtqia)  
 - **DEV** — [https://discord.gg/reactionroles](https://discord.gg/reactionroles)  
 - **iOS** — [https://discord.gg/jb](https://discord.gg/jb)  
