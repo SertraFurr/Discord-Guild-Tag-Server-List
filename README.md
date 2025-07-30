@@ -38,7 +38,6 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **WOOF** — [https://discord.gg/pupy](https://discord.gg/pupy)
 - **RAWR** — [https://discord.gg/kCh734XdZv](https://discord.gg/kCh734XdZv)
 - **RELO** - [https://discord.gg/4MkzHQDQdU](https://discord.gg/4MkzHQDQdU)
-- **1111** - [https://discord.gg/1-1-1-1-961899976248672276](https://discord.gg/1-1-1-1-961899976248672276)
 - **DUPA** - [discord.gg/dupa](discord.gg/dupa)
 
 ---
