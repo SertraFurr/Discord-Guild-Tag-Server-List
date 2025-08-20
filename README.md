@@ -39,6 +39,7 @@ A curated list of active Discord servers where guild tags or server tags are use
 - **RAWR** — [https://discord.gg/kCh734XdZv](https://discord.gg/kCh734XdZv)
 - **RELO** - [https://discord.gg/4MkzHQDQdU](https://discord.gg/4MkzHQDQdU)
 - **DUPA** - [discord.gg/dupa](discord.gg/dupa)
+- **HANG** - [https://discord.gg/the-hangout](https://discord.gg/the-hangout)
 
 ---
 
