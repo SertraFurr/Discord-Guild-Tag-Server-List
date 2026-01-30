@@ -3,6 +3,8 @@
 
 # STOP USING THIS, just go to https://tags.mgcounts.com/ or any other xD
 
+Do not do pull requests, are you should put them on websites where it could be useful, rather than here with a view once a year
+
 A curated list of active Discord servers where guild tags or server tags are used and supported.
 
 > ✅ They put it back — get your tags now!
